@@ -1,0 +1,6 @@
+CHANGELOG 0.3.0
+
+- Added: Changelog for 0.3.0 in doc/changelogs/CHANGELOG-0.3.0
+- Added: Extension Documentation
+- Added: Example extension settings: content.ini to enable literal html input to ezxml xml blocks
+

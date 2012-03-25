@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>BC Simple Literal HTML : Settings</name>
+        <version>0.3.0</version>
+        <copyright>Copyright (C) 1999-2012 eZ Systems AS, 1999-2012 Brookins Consulting</copyright>
+        <license>GNU General Public License</license>
+    </metadata>
+
+    <dependencies>
+        <requires>
+        </requires>
+        <extends>
+        </extends>
+    </dependencies>
+
+</software>

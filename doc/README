@@ -1,0 +1,96 @@
+BC Simple Literal HTML Settings README
+
+What is the BC Simple Literal HTML Settings extension?
+================================
+
+BC Simple Literal HTML Settings is a true
+eZ Publish extension that provides example
+settings for global, default ezwebin siteaccesses
+to enable the literal html tag. This allows
+the user to insert html tags.
+
+
+BC Simple Literal HTML Settings version
+=======================
+
+The current version of BC Simple Literal HTML Settings is 0.3.0
+Last Major update: March 25, 2012
+
+You can find details about changes for this
+version in doc/changelogs/CHANGELOG-0.3.0
+
+
+Copyright
+=========
+
+BC Simple Literal HTML Settings is copyright 1999-2012 Brookins consulting and eZ Systems AS
+
+See: doc/COPYRIGHT for more information on the terms of the copyright and license
+
+License
+=======
+
+BC Simple Literal HTML Settings is licensed under the GNU General Public License.
+
+The complete license agreement is included in the doc/LICENSE file.
+
+BC Simple Literal HTML Settings is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+BC Simple Literal HTML Settings is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+The GNU GPL gives you the right to use, modify and redistribute
+BC Simple Literal HTML Settings under certain conditions. The GNU GPL license
+is distributed with the software, see the file doc/LICENSE.
+
+It is also available at http://www.gnu.org/licenses/gpl.txt
+
+You should have received a copy of the GNU General Public License
+along with BC Simple Literal HTML Settings in doc/LICENSE.  If not, see http://www.gnu.org/licenses/.
+
+Using BC Simple Literal HTML Settings under the terms of the GNU GPL is free (as in freedom).
+
+For more information or questions please contact
+license@brookinsconsulting.com
+
+
+Requirements
+============
+
+The following requirements exists for using BC Simple Literal HTML Settings extension:
+
+o  eZ Publish version:
+
+   Make sure you use eZ Publish version 4.x (required) or higher. eZ Publish 4.7.x+ (Community Build, 2012.02+) is recommended.
+
+o  PHP version:
+
+   Make sure you have PHP 5.x or higher.
+
+
+Installation
+============
+
+Details on installing BC Simple Literal HTML Settings located in the file doc/INSTALL.
+
+
+Troubleshooting
+===============
+
+1. Read the FAQ
+   ------------
+
+   Some problems are more common than others. The most common ones
+   are listed in the the doc/FAQ.
+
+2. Support
+   -------
+
+   If you have find any problems not handled by this document or the FAQ you
+   can contact Brookins Consulting through the support system:
+   http://brookinsconsulting.com/contact
